@@ -10,16 +10,14 @@ def is_prime(n):
 
     Returns
     -------
-    boolean
+    bool
       True or False based on the inputed integer's primality.
 
     Examples
     --------
-    >>> is_prime(2)
-    True
-    >>> is_prime(4)
-    False
-    >>> is_prime(7)
+    >>> from prime_jx2545 import prime_jx2545
+    >>> n = 2
+    >>> prime_jx2545.is_prime(2)
     True
     """
     if n <= 1:
