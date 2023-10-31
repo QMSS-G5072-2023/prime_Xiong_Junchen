@@ -3,11 +3,14 @@ version: 2
 
 # Image to use
 build:
+  image: testing
+
+  
+# Set the version of Python
+build:
   os: ubuntu-20.04  # <- add this line
   tools:
     python: "3.10"
-  image: testing
-
 # Configuration
 python:
   version: 3.9
