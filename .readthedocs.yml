@@ -10,8 +10,7 @@ build:
 build:
   os: ubuntu-22.04  # <- add this line
   tools:
-    python:
-      version: 3.9
+    python: 3.9
 # Configuration
 python:
   version: 3.9
