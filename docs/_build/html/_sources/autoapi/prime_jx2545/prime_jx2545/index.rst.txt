@@ -1,0 +1,37 @@
+:py:mod:`prime_jx2545.prime_jx2545`
+===================================
+
+.. py:module:: prime_jx2545.prime_jx2545
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   prime_jx2545.prime_jx2545.is_prime
+
+
+
+.. py:function:: is_prime(n)
+
+   Test if a given integer is prime.
+
+   :param n:
+   :type n: an abitrary interger inputed by the user to be tested if it is a prime or not
+
+   :returns: True or False based on the inputed integer's primality.
+   :rtype: boolean
+
+   .. rubric:: Examples
+
+   >>> from prime_jx2545 import prime_jx2545
+   >>> n = 2
+   >>> prime_jx2545.is_prime(2)
+   True
+
+

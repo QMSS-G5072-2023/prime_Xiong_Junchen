@@ -1,0 +1,22 @@
+:py:mod:`prime_jx2545`
+======================
+
+.. py:module:: prime_jx2545
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   prime_jx2545/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+
