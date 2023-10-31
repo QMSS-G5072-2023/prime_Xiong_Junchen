@@ -9,8 +9,8 @@ build:
 # Set the version of Python
 build:
   os: ubuntu-20.04  # <- add this line
-  tools:
-    python: "3.10"
+
+
 # Configuration
 python:
   version: 3.9
