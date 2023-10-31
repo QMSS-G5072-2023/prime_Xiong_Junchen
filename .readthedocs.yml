@@ -8,8 +8,9 @@ build:
   
 # Set the version of Python
 build:
-  os: ubuntu-20.04  # <- add this line
-
+  os: ubuntu-22.04  # <- add this line
+  tools:
+    python: "3.9"
 
 # Configuration
 python:
