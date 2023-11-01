@@ -2,6 +2,9 @@
 
 Junchen's hw07 test package for mds_fall2023
 
+## Read the Docs URL
+Please take a look at the documentation on readthedocs.org: https://prime-jx2545.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
